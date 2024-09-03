@@ -20,10 +20,18 @@ Building a document scanner with OpenCV can be accomplished in just three simple
 
 ## Usage
 
+
 ### Clone the repository:
 
 ```bash
 git clone https://github.com/Mozhgan-Parsa/ScanDocument.git
+```
+
+### Install the requirements:
+
+```bash
+pip install -r requirements.txt
+
 ```
 
 ### Run the script:
