@@ -30,9 +30,8 @@ cd document-scanner
 ### Run the script:
 
 ```bash
-python transform_example.py --image images/example_02.png --coords '[(101, 185), (393, 151), (479, 323), (187, 441)]'
+python scanDocument.py --image images/example_01.jpeg
 
 ```
 
-Replace images/example_02.png with the path to your image file and adjust the --coords parameter to fit your specific use case.
-
+Replace images/example_02.png with the path to your image file 
