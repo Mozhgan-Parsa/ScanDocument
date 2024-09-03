@@ -23,8 +23,7 @@ Building a document scanner with OpenCV can be accomplished in just three simple
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/document-scanner.git
-cd document-scanner
+git clone https://github.com/Mozhgan-Parsa/ScanDocument.git
 ```
 
 ### Run the script:
